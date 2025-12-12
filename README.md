@@ -1,4 +1,4 @@
 # Assignment-1
 
-Programming Language Used
+Programming Language Used:
 Java
